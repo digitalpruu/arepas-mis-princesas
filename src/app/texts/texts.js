@@ -12,7 +12,7 @@ const textos = {
         title: title,
     },
     about: {
-        description1: "*Arepas Mis Princesas* se especializa en la elaboración de deliciosas arepas rellenas de queso y jamón. Nos dedicamos a ofrecer productos frescos y sabrosos que deleitan el paladar.",
+        description1: "Arepas Mis Princesas se especializa en la elaboración de deliciosas arepas rellenas de queso y jamón. Nos dedicamos a ofrecer productos frescos y sabrosos que deleitan el paladar.",
         description2: "Nuestras arepas están hechas con ingredientes de la más alta calidad, asegurando un sabor auténtico y un bocado irresistible. Cada arepa está preparada con esmero, brindando una experiencia culinaria que combina tradición y sabor. En *Arepas Mis Princesas*, estamos comprometidos a ofrecer productos que destacan por su calidad y sabor. ¡Ven y prueba nuestras deliciosas arepas rellenas de queso y jamón!",
     },
     contact: {
